@@ -1,0 +1,11 @@
+id,country,location,genre,season
+british_museum,england,london,museum,all
+florence_cathedral_side,Italy,Florence,museum,all
+lincoln_memorial_statue,United States,washington d.c.,museum,all
+london_bridge,england,london,heritage,all
+milan_cathedral,italy,milan,heritage,all
+mount_rushmore,United States,washington d.c.,heritage,all
+piazza_san_marco,italy,venice,heritage,all
+sagrada_familia,Spain,Barcelona,heritage,all
+st_pauls_cathedral,england,london,museum,all
+united_states_capitol,United States,washington d.c.,city,all
